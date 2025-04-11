@@ -52,7 +52,7 @@ function item() {
         }
         .card {
           border: 1px solid #ccc;
-          padding: 16px;
+          padding: 0px;
           border-radius: 8px;
           text-align: center;
         }
